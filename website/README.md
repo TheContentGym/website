@@ -8,7 +8,7 @@ This website was created with [Docusaurus](https://docusaurus.io/).
 - [Adding Content](#adding-content)
 - [Full Documentation](#full-documentation)
 
-# Get Started in 5 Minutes
+# Get Started in 5 Minutes (took a little longer)
 
 1. Make sure all the dependencies for the website are installed:
 
