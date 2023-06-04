@@ -4,6 +4,15 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+ 
+ module.exports = {
+  // Other configuration options...
+  url: 'https://TheContentGym.github.io/website/',
+  baseUrl: '/website/',
+  projectName: '<your-repository-name>',
+  organizationName: 'TheContentGym',
+  // Other configuration options...
+};
 
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
